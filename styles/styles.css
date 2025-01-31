@@ -1,0 +1,23 @@
+h2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+nav{
+    display: flex;
+    text-align: end;
+}
+
+.hero-sec{
+    display: flex;
+    background-color: rgba(172, 240, 172, 0.623);
+    border-radius: 10px;
+    width: 80%;
+}
+
+.pillars{
+    display: flex;
+}
+
+.vision{
+    display: flex;
+}
