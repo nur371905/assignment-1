@@ -21,3 +21,13 @@ nav{
 .vision{
     display: flex;
 }
+
+.quote{
+    background-color: antiquewhite;
+    border-radius: 10px;
+    /* background-image: url(); */
+}
+
+.news{
+    display: flex;
+}
