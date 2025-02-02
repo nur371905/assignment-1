@@ -31,3 +31,7 @@ nav{
 .news{
     display: flex;
 }
+
+.donate-button{
+    display: flex;
+}
