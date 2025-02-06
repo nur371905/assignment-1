@@ -4,20 +4,44 @@ h2{
 
 nav{
     display: flex;
-    text-align: end;
+    justify-content: space-between;
+    border: 0px 30px 100px;
+}
+nav button{
+    height: 36px;
+    background-color: none;
+    border-color: green;
 }
 
+main{
+    max-width: 1140px;
+    margin: 0 auto;
+    justify-content: space-evenly;
+}
+.btn-primary{
+
+}
+
+button{
+    border-radius: 7px;
+   
+}
 .hero-sec{
+    justify-content: space-between;
     display: flex;
     background-color: rgba(172, 240, 172, 0.623);
     border-radius: 10px;
     width: 80%;
+    padding: 10px 30px;
 }
 
 .pillars{
     display: flex;
 }
-
+.pill-box{
+    border: 10x;
+    border-color: black;
+}
 .vision{
     display: flex;
 }
@@ -33,5 +57,11 @@ nav{
 }
 
 .donate-button{
+    display: flex;
+}
+#newsletter-email{
+    display: flex;
+}
+.footer-icons{
     display: flex;
 }
